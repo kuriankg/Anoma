@@ -1,6 +1,6 @@
 # Anoma
-Predicting the Machine failure
-Load and Explore Data: Import required libraries and read the dataset from an Excel file to understand data structure and check for missing values.
+Predicting the Machine failure  
+Load and Explore Data: Import required libraries and read the dataset from an Excel file to understand data structure and check for missing values.  
 Handle Missing Values: Calculate and print the proportion of missing values in each column to assess data quality.
 Data Cleaning: Drop unnecessary columns (e.g., 'time' and 'y.1') to streamline the dataset for analysis.
 Visualize Data: Use a histogram plot to examine the distribution of 'x19' with respect to the target variable 'y', helping to understand its relationship with the target class.

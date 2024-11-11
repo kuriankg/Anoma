@@ -1,4 +1,5 @@
 # Anoma
+<b>
 Predicting the Machine failure
 Load and Explore Data: Import required libraries and read the dataset from an Excel file to understand data structure and check for missing values.
 Handle Missing Values: Calculate and print the proportion of missing values in each column to assess data quality.
